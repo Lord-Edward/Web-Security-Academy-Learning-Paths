@@ -16,3 +16,4 @@ This repo covers the `notes` created for learning purposes. This should cover no
 1.  Always check `robots.txt` file for any website.
 2.  Always check the source code of the website. You might find some java scripts in code which might reveal the sensitive URLs.
 3.  Always check the URL string parameters and see changing them changes anything. Ex. `https://insecure-website.com/login/home.jsp?admin=true` **OR** `https://insecure-website.com/login/home.jsp?role=1`.
+4.  If you find any credentials, log in using that and check if any `cookies` are set specific to defining access.
