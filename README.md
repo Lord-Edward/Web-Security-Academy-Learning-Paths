@@ -14,3 +14,4 @@ This repo covers the `notes` created for learning purposes. This should cover no
 ## Things which should be checked always
 
 1.  Always check `robots.txt` file for any website.
+2.  Always check the source code of the website. You might find some java scripts in code which might reveal the sensitive URLs.
